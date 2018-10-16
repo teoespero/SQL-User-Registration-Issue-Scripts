@@ -1,0 +1,2 @@
+# SQL-User-Registration-Issue-Scripts
+The code below can be used in resolving issues that may arise when the new user sign-in and registration patch has been implemented (see DS-5479). The code will provide the user with the following information;  Lastname, Last 4 DOB the Email Zip code The code also has ways of removing trailing spaces and extra character on the zip which often prevents users from resetting/registering.
